@@ -9,3 +9,8 @@ Sideways Mode<br>
 Stage Records<br>
 Optimized Player Loading<br>
 Caching
+
+
+<br><br><b>ATTENTION DEVELOPERS</b><br>
+This branch is locked to the MestroGaming.net Development Database,<br>
+for a custom development node please contact myself or another line manager.

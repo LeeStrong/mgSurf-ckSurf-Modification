@@ -1,7 +1,7 @@
 # mgSurf-ckSurf-Modification
 Modification of ckSurf 1.17 for MestroGaming.net
 
-<b>CUSTOM FEATURES</b>
+<b>CUSTOM FEATURES</b><br>
 Niche Administrator Features<br>
 Strafe Detection<br>
 Optimized Zoning<br>

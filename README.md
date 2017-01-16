@@ -1,7 +1,10 @@
-# mgSurf-ckSurf-Modification
-Modification of ckSurf 1.17 for MestroGaming.net
+# Mestro Gaming Surf Timer
+Surf Timer for MestroGaming.net
 
-<b>CUSTOM FEATURES</b><br>
+<b>FEATURE LIST</b><br>
+Player Ranks<br>
+Extended Bot Manager & API<br>
+Tidy Timer Interface<br>
 Niche Administrator Features<br>
 Strafe Detection<br>
 Optimized Zoning<br>

@@ -7,3 +7,5 @@ Strafe Detection<br>
 Optimized Zoning<br>
 Sideways Mode<br>
 Stage Records<br>
+Optimized Player Loading<br>
+Caching
